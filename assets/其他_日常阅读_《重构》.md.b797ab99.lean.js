@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.2916bdaf.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"其他/日常阅读/《重构》.md"}'),r={name:"其他/日常阅读/《重构》.md"};function o(s,c,n,_,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
