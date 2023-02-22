@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.e94b66cf.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"handbook/Generics.md"}'),o={name:"handbook/Generics.md"};function r(n,s,c,i,d,p){return a(),t("div")}const f=e(o,[["render",r]]);export{m as __pageData,f as default};
