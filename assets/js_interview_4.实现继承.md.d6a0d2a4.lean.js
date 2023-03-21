@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,e as l}from"./app.0c9f1ae8.js";const C=JSON.parse('{"title":"实现函数的继承","description":"","frontmatter":{},"headers":[],"relativePath":"js/interview/4.实现继承.md"}'),o={name:"js/interview/4.实现继承.md"},p=l("",3),t=[p];function e(c,r,y,D,F,i){return a(),n("div",null,t)}const f=s(o,[["render",e]]);export{C as __pageData,f as default};
