@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.1c8695ff.js";const m=JSON.parse('{"title":"条件类型","description":"","frontmatter":{"title":"条件类型","author":"冴羽","date":"2021-12-12"},"headers":[],"relativePath":"README.md"}'),r={name:"README.md"};function o(s,c,n,p,_,d){return a(),e("div")}const f=t(r,[["render",o]]);export{m as __pageData,f as default};
